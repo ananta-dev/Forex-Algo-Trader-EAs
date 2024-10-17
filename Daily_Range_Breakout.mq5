@@ -5,6 +5,7 @@
 //+------------------------------------------------------------------+
 // Credit to ALLAN MUNENE MUTIIRIA. #@Forex Algo-Trader
 // https://www.youtube.com/watch?v=sgcyC7TNWNw
+// Visit https://forex-algo-trader.github.io/forex-trading-strategies-coding-expert-advisors-in-MQL5-for-MT5-and-BOTS-ROBOTS-EA-source-code/#banner
 
 #property copyright "Copyright 2024, Ananta"
 #property link      "https://www.ananta.dev/"
